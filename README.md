@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Om</h1>
+<h1 align="center">Hello there 👋, I'm Om</h1>
 <h3 align="center">A passionate ML developer</h3>
 
 - 🌱 I’m currently learning **ML & AI**
