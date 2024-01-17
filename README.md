@@ -109,7 +109,7 @@
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
     </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="margin-right: 200px;">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
@@ -120,7 +120,9 @@
 <p align="center">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/logo@3x.png" alt="logo" width="40" height="40""></a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="logo" width="40" height="40""></a>
+    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="logo" width="40" height="40""></a>
+    <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="logo" width="40" height="40""></a>
 </p>
 
 <h1 align="left">📊 GitHub Stats :</h1>
