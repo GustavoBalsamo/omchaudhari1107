@@ -48,7 +48,7 @@
 <h4 align="center">Databases :</h4>
 <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a&nbsp
+    &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -99,7 +99,7 @@
 
 <h1 align="left">📊 GitHub Stats :</h1>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omchaudhari1107&theme=github_dark)" alt="omchaudhari1107" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omchaudhari1107&theme=github_dark" alt="omchaudhari1107" />
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omchaudhari1107&theme=dark" alt="omchaudhari1107" />
