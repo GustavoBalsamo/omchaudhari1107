@@ -98,7 +98,9 @@
 </p>
 
 <h1 align="left">📊 GitHub Stats :</h1>
-
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omchaudhari1107&theme=github_dark)" alt="omchaudhari1107" />
+</p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omchaudhari1107&theme=dark" alt="omchaudhari1107" />
 </p>
