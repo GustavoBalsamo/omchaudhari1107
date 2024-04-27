@@ -8,7 +8,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/om-chaudhari-38960721b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
     <a href="https://www.hackerrank.com/profile/snow1107" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-    <a href='https://omchaudhari1107.github.io/' target='_blank'><img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white'/></a>
+    <a href='https://omchaudhari1107.github.io/' target="_blank"><img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white'/></a>
 </p>
 
 <h1 align="left">💻 Tech Stack :</h1>
