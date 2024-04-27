@@ -1,11 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Om</h1>
-<h3 align="center">A passionate ML developer</h3>
+<h3 align="center">A passionate ML dev & Data Scientist</h3>
 
-- 🌱 I’m currently learning **ML & AI**
+- 🌱 I’m currently learning **ML & DS**
 
 - 👨‍💻 Visit my Portfolio - [om chaudhari](https://omchaudhari1107.github.io/)
-
-- 🙎 Wan't to look [CV](https://drive.google.com/file/d/1h7tKCBFJHDt4I0BF67ze0ndpmSGnIM0s/view?usp=sharing)
 
 - 😆 Fun Fact : We all Use GPT
 <h3 align="left">Connect with me:</h3>
@@ -16,13 +14,13 @@
 <h1 align="left">💻 Tech Stack :</h1>
 <h4 align="center">Programming Languages :</h4>
 <p align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     &nbsp
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    &nbsp
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> -->
     &nbsp
 </p>
 
@@ -32,15 +30,15 @@
     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     &nbsp
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/>
     &nbsp
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="40" height="40"/>
     &nbsp
 </p>
 
 <h4 align="center">Backend Dev :</h4>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> -->
     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     &nbsp
@@ -51,29 +49,29 @@
     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     &nbsp
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    &nbsp
+<!--         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+    &nbsp -->
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-    &nbsp
+<!--     &nbsp
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-    &nbsp
+    &nbsp -->
 </p>
 
 </p>
-<h4 align="center">Backend as a Service(BaaS) :</h4>
+<!-- <h4 align="center">Backend as a Service(BaaS) :</h4>
 <p align="center">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
     &nbsp
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
     &nbsp
-</p>
+</p> -->
 
 <h4 align="center">Frameworks :</h4>
 <p align="center">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-    &nbsp
+<!--     &nbsp
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    &nbsp
+    &nbsp -->
 </p>
 
 <h4 align="center">AI / ML :</h4>
