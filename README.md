@@ -18,7 +18,6 @@
 
 <h1 align="left">💻Tech Stack :</h1>
 <p align=left>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=c"/> 
     <img src="https://skillicons.dev/icons?i=cpp"/>
@@ -46,8 +45,6 @@
     <img src="https://skillicons.dev/icons?i=vscode"/>
     <img src="https://skillicons.dev/icons?i=pycharm"/>
     <img src="https://skillicons.dev/icons?i=replit"/>
-  </a>
-
 
 <!-- <p align=left>
 <h4 align="center">Programming Languages :</h4>
