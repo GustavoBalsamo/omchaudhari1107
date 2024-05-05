@@ -144,12 +144,6 @@ Proficient in Django, HTML, CSS, JS, SQL, and NoSQL databases, I am passionate a
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omchaudhari1107&show_icons=true&theme=dark&locale=en&layout=compact" alt="omchaudhari1107" />
 </p>
 
-<h1 align="left">🏆GitHub Trophies</h1>
-<p align="center" style="background-color: transparent;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=omchaudhari1107&theme=kimbie_dark" alt="omchaudhari1107" /></a>   
-</p>
-
 
 
 
