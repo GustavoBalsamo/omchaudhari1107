@@ -20,6 +20,7 @@
 <p align=left>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,bootstrap,mysql,postgresql,mongodb,firebase,heroku,django,opencv,sklearn,tensorflow,pytorch,git,docker,github,linux,windows,powershell,vscode,pycharm,replit" />
+    <img src="https://skillicons.dev/icons?i=git"/>
   </a>
 
 <!-- <p align=left>
