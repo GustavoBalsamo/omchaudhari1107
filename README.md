@@ -19,9 +19,35 @@
 <h1 align="left">💻Tech Stack :</h1>
 <p align=left>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,bootstrap,mysql,postgresql,mongodb,firebase,heroku,django,opencv,sklearn,tensorflow,pytorch,git,docker,github,linux,windows,powershell,vscode,pycharm,replit" />
+    <img src="https://skillicons.dev/icons?i=py"/>
+    <img src="https://skillicons.dev/icons?i=c"/> 
+    <img src="https://skillicons.dev/icons?i=cpp"/>
+    <img src="https://skillicons.dev/icons?i=html"/>
+    <img src="https://skillicons.dev/icons?i=css"/>
+    <img src="https://skillicons.dev/icons?i=js"/>
+    <img src="https://skillicons.dev/icons?i=md"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
+    <img src="https://skillicons.dev/icons?i=postgresql"/>
+    <img src="https://skillicons.dev/icons?i=mongodb"/>
+    <img src="https://skillicons.dev/icons?i=firebase"/>
+    <img src="https://skillicons.dev/icons?i=heroku"/>
+    <img src="https://skillicons.dev/icons?i=django"/>
+    <img src="https://skillicons.dev/icons?i=opencv"/>
+    <img src="https://skillicons.dev/icons?i=sklearn"/>
+    <img src="https://skillicons.dev/icons?i=tensorflow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch"/>
     <img src="https://skillicons.dev/icons?i=git"/>
+    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=docker"/>
+    <img src="https://skillicons.dev/icons?i=linux"/>
+    <img src="https://skillicons.dev/icons?i=windows"/>
+    <img src="https://skillicons.dev/icons?i=powershell"/>
+    <img src="https://skillicons.dev/icons?i=vscode"/>
+    <img src="https://skillicons.dev/icons?i=pycharm"/>
+    <img src="https://skillicons.dev/icons?i=replit"/>
   </a>
+
 
 <!-- <p align=left>
 <h4 align="center">Programming Languages :</h4>
