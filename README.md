@@ -24,6 +24,7 @@ Proficient in Django, HTML, CSS, JS, SQL, and NoSQL databases, I am passionate a
     <img src="https://skillicons.dev/icons?i=py"/>
     <img src="https://skillicons.dev/icons?i=c"/> 
     <img src="https://skillicons.dev/icons?i=cpp"/>
+    <img src="https://skillicons.dev/icons?i=java"/>
     <img src="https://skillicons.dev/icons?i=html"/>
     <img src="https://skillicons.dev/icons?i=css"/>
     <img src="https://skillicons.dev/icons?i=js"/>
