@@ -10,6 +10,7 @@ Proficient in Pytho, Django, HTML, CSS, JS, SQL, and NoSQL databases, I am passi
 - 😂 All of my projects are available at __Repository__
   
 - 😆 Fun Fact : We all Use GPT
+- 📑 For CV [click me👆](https://omchaudhari1107.github.io/)
   
 <h1 align="left">😇Connect with me:</h1>
 <p align="left">
