@@ -1,7 +1,7 @@
-<h1 align="center">Hello (<img style='width:40px; height:40px;' align='center' src='./wave-hello.gif'/>), I'm Om</h1>
+<h1 align="center">Hello (<img style='width:40px; height:40px;' align='center' src='./wave-hello.gif'/>), I'm Om Chaudhari</h1>
 
-__*A passionate Data scientist and Machine Learnign developer, currently pursuing my BE-IT degree at LDRP-ITR with a CPI exceeding 8.
-Proficient in Pytho, Django, HTML, CSS, JS, SQL, and NoSQL databases, I am passionate about innovation and aim to contribute to transformative tech projects.*__
+__A passionate Data scientist and Machine Learnign developer, currently pursuing my BE-IT degree at LDRP-ITR with a CPI exceeding 8.
+Proficient in Pytho, Django, HTML, CSS, JS, SQL, and NoSQL databases, I am passionate about innovation and aim to contribute to transformative tech projects.__
   
 - 🌱 I’m currently learning __ML & DS__
   
