@@ -44,7 +44,7 @@ body,head:focus {
 .hoverimg {
     /* border: 2px solid #000; */
     transition: transform .5s ease, background-size 1s ease;
-    background: linear-gradient(to bottom, rgb(255, 255, 231) 0%, rgb(0, 179, 255) 100%);
+    background: linear-gradient(to bottom, rgb(255, 255, 231) 0%, #2cb67d 100%);
     background-size: 100% 0;
     background-position: bottom;
     background-repeat: no-repeat;
@@ -81,7 +81,7 @@ body,head:focus {
 }
 
 .highlight-blue {
-    border-bottom: 2px solid rgba(0, 255, 221, 0.9);
+    border-bottom: 2px solid #2cb67d;
     transition: background-color 0.6s ease-in-out;
 }
 
@@ -102,14 +102,14 @@ body,head:focus {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: rgb(0, 162, 255);
+    background: #2cb67d;
     border-radius: 20px;
 }
 
 
 ::selection {
     color: var(--color-eye);
-    background: rgb(0, 162, 255);
+    background: #2cb67d;
     /* height: 20px; */
 }
 
@@ -126,7 +126,7 @@ body,head:focus {
 }
 
 .certi-title {
-    color: rgb(0, 183, 255);;
+    color: #2cb67d;
 }
 
 .button>a {
@@ -160,9 +160,67 @@ body,head:focus {
     color: rgb(0, 0, 0);
 }
 
+
+
+/* General layout for the skill sections */
+.skills-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.skills-section {
+    width: 90%;
+    max-width: 1200px;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #1a1a1a;
+    border-radius: 8px;
+}
+
+.skills-title {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+/* Icon grid for each section */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 1.5rem;
+    justify-items: center;
+    align-items: center;
+}
+
+.skill-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #333;
+    padding: 1rem;
+    border-radius: 8px;
+    width: 100px;
+    text-align: center;
+}
+
+.skill-card img,
+.skill-card .iconify {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 0.5rem;
+}
+
+.skill-card span {
+    font-size: 0.9rem;
+    color: #fff;
+}
+
 .certi-card {
-    width: 22rem;
-    max-height: 20rem;
+
+width: 3000px; 
+max-height: 20rem;
     background-color: var(--color-eye);
     padding: 0.8rem 0.8rem 1.6rem 0.8rem;
     height: 50%;
@@ -250,8 +308,10 @@ body,head:focus {
 }
 
 #home {
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
+    gap: 9vw;
 }
 
 html {
@@ -390,13 +450,13 @@ label {
 } */
 
 .act > a{
-    color: rgb(80, 205, 255);
+    color: #2cb67d;
     /* color: var(--color-eye); */
 }
 
 @keyframes under {
     0% {
-        border-bottom: 3px solid rgb(0, 255, 255);
+        border-bottom: 3px solid #2cb67d;
     }
 
     50% {
@@ -404,7 +464,7 @@ label {
     }
 
     100% {
-        border-bottom: 3px solid rgb(0, 255, 255);
+        border-bottom: 3px solid #2cb67d;
     }
 }
 
@@ -418,30 +478,99 @@ label {
     font-weight: 400;
 }
 
-.typed-python,.typed-js,.typed-pbi {
-    color: yellow; /* Change to your desired color for Python */
+.typed-react {
+    color: #61dafb; /* Azul claro para React */
 }
 
-.typed-django,.typed-mongo {
-    color: #00b421; /* Change to your desired color for Django */
+.typed-ts {
+    color: #00aaff; /* Azul claro para TypeScript */
 }
 
-.typed-ml,.typed-sql {
-    color: rgb(0, 157, 255); /* Change to your desired color for ML */
+.typed-webdev {
+    color: #ff7f50; /* Coral para Web Development */
 }
-.typed-ds{
-    color: chartreuse;
+
+.typed-mysql {
+    color: #00bcd4; /* Azul turquesa claro para MySQL */
 }
-.typed-html,.typed-laravel {
-    color: var(--color-red); /* Change to your desired color for ML */
+
+.typed-htmlcssjs, .typed-html {
+    color: #ff5733; /* Laranja-avermelhado claro para HTML */
 }
-.typed-css{
-    color: lightskyblue;
+
+.typed-css {
+    color: #29abe2; /* Azul claro para CSS */
 }
+
+.typed-js {
+    color: #f0db4f; /* Amarelo para JavaScript */
+}
+
+.typed-laravel {
+    color: #ff2d20; /* Vermelho para Laravel */
+}
+
+.typed-vue {
+    color: #42b883; /* Verde claro para Vue */
+}
+
+.typed-jest {
+    color: #cc4f4f; /* Vermelho claro para Jest */
+}
+
+.typed-flask {
+    color: #ffffff; /* Branco para Flask */
+}
+
+.typed-nginx {
+    color: #66cc66; /* Verde claro para Nginx */
+}
+
+.typed-python {
+    color: #ffdd57; /* Amarelo claro para Python */
+}
+
+.typed-django {
+    color: #5de000; /* Verde claro para Django */
+}
+
+.typed-nodejs {
+    color: #78c257; /* Verde claro para Node.js */
+}
+
+.typed-linux {
+    color: #f0e68c; /* Amarelo claro para Linux */
+}
+
+.typed-git {
+    color: #ff4500; /* Laranja claro para Git & GitHub */
+}
+
+.typed-docker {
+    color: #1e90ff; /* Azul claro para Docker */
+}
+
+.typed-graphql {
+    color: #ff66b2; /* Rosa claro para GraphQL */
+}
+
+.typed-pbi {
+    color: #f2c811; /* Amarelo para Power BI */
+}
+
+.typed-sql {
+    color: #87ceeb; /* Azul claro para SQL */
+}
+
+.typed-mongo {
+    color: #4caf50; /* Verde para MongoDB */
+}
+
 .typed-cursor {
     font-weight: bolder;
     font-size: xx-large;
 }
+
 .iam-job {
     font-size: 3.2rem;
 }
@@ -477,9 +606,9 @@ label {
 
 .avatar {
     margin-top: 7rem;
-    width: 50rem;
+    width: 45rem;
     border-radius: 50%;
-    border: 9px solid rgb(0, 195, 255);
+    border: 9px solid #2cb67d;
     background-color: var(--color-eye);
     /* border-bottom: 1rem solid rgb(0, 213, 255); */
     /* background: radial-gradient(circle, rgba(255, 252, 0, 1) 20%, rgba(0, 215, 255, 1) 100%); */
@@ -636,7 +765,7 @@ label {
 .card-title {
     font-size: 2.1rem;
     /* text-transform: capitalize; */
-    color: rgb(0, 183, 255);
+    color: #2cb67d;
 }
 
 .card-desc {
